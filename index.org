@@ -8,7 +8,7 @@
 - pgp finger: 09AFE0C206E9E37082F4CF77ABAC70BC8E00EF1F
 
 * pgp public key
-#+begin_verse
+#+begin_example
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQGNBGOTz1oBDAC1im9k2mtcIU4n6PdkfpGUh5xISpPuIo4kRYTjNCGa87y3zc8i
@@ -95,4 +95,4 @@ Wx0K1HTlSsgpAIKNrh4vTtyzio7OmKTEZejKbrhk7O31FElI0vB20o1FBw3q61o=
 =5SA6
 -----END PGP PUBLIC KEY BLOCK-----
 
-#+end_verse
+#+end_example
