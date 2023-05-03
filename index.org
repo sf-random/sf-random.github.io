@@ -7,7 +7,7 @@
 - pgp finger: B99384D00281E7C8B74AAA3026E063F797AEF6C3
 
 * pgp public key
-#+begin_quote
+#+begin_verse
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 mDMEY9mu7hYJKwYBBAHaRw8BAQdACqfuVgEn0GBlJ10/Pk7D5nwcIByXZaX5Kwnt
 rmE+vti0InNmMjAyMzAyMDEgPGpzc2hpZmVuZ0BvdXRsb29rLmNvbT6IkwQTFgoA
@@ -32,4 +32,4 @@ BBgWCgAgFiEEuZOE0AKB58i3SqowJuBj95eu9sMFAmPZru4CGwwACgkQJuBj95eu
 DzBmf6zjRoOco1X+pyzOWJI2MUXiH1IN
 =LBgo
 -----END PGP PUBLIC KEY BLOCK-----
-#+end_quote
+#+end_verse
