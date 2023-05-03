@@ -1,5 +1,5 @@
-#+TITLE: my notes
-#+AUTHOR: sf-random
+#+TITLE: PUBLIC CONTACT INFORMAITON
+#+AUTHOR: shifeng
 
 * contact me
 - phone: 19885531128
