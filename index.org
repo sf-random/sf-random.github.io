@@ -1,3 +1,7 @@
+#+TITLE: my notes
 #+AUTHOR: sf-random
-* urls
-- hihi
+
+* contact me
+- phone: 19885531128
+- email: 19885531128@139.com
+  
