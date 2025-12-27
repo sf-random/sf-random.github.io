@@ -1,8 +1,6 @@
 #+TITLE: PUBLIC CONTACT INFORMAITON
-#+AUTHOR: shifeng
+#+AUTHOR: ss
 
 * contact me
-- phone: 19885531128
-- email: 19885531128@139.com
 - xmpp: sama53@conversations.im
 - pgp finger: 09AFE0C206E9E37082F4CF77ABAC70BC8E00EF1F
